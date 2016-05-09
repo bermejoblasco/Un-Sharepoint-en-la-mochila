@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListUrl="Lists/SpsMad">
+    <Receiver>
+      <Name>RERSpsMadItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <SequenceNumber>10000</SequenceNumber>
+      <!--remoteAppUrl - is a token that will be replaced with the real address of our service-->
+      <Url>~remoteAppUrl/Services/RERSpsMad.svc</Url>
+    </Receiver>
+  </Receivers>
+</Elements>

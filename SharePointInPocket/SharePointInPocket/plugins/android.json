@@ -1,0 +1,49 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "cordova-plugin-file-opener2": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "cordova-plugin-ms-azure-mobile-apps": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "947200102898",
+            "PACKAGE_NAME": "sogeti.spsmadrid.sharepointmochila"
+        }
+    },
+    "dependent_plugins": {}
+}

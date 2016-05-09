@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2dd457e1-da2d-4752-b654-02a76f185c27" solutionId="2dd457e1-da2d-4752-b654-02a76f185c27" resetWebServer="false" sharePointProductVersion="16.0" name="RERSpsMadPush" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="d203d30a-9b5a-4bfa-895d-28fae1c45ba5" />
+  </features>
+</package>

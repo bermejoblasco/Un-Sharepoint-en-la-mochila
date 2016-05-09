@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RERPushBySharePointWeb.Services.RERSpsMad" CodeBehind="RERSpsMad.svc.cs" %>

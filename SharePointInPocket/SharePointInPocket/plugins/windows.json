@@ -1,0 +1,49 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "cordova-plugin-file-opener2": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "cordova-plugin-ms-azure-mobile-apps": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "947200102898",
+            "PACKAGE_NAME": "Sharepoint Mochilero"
+        }
+    },
+    "dependent_plugins": {}
+}
